@@ -7,4 +7,5 @@ pipeline{
                 git 'https://github.com/SaitejaswiK/Jenkins_sample/'
             }
         }
+    }
 }
